@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Wall
+  - Music
+  - Enemy2
+  - Enemy1
+  - Enemy3
+  - Enemy4
+  - Enemy5
+  - Enemy6
+  - Enemy7
+  - Enemy8
+  - Enemy9
+  - Enemy10
+  - Enemy11
+  - Enemy12
+  - Enemy13
+  - Enemy14
+  - Enemy15
+  - Enemy16
+  - Enemy17
+  - Enemy18
+  - Enemy19
+  - Enemy20
+  - Enemy21
+  - Enemy22
+  - Enemy23
+  - Enemy24
+  - Enemy25
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: okolina
+    uniqueID: 962751551
+    locked: 0
+  - name: drvece
+    uniqueID: 4084645119
+    locked: 0
